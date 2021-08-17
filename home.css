@@ -1,0 +1,41 @@
+body{
+    background-image: url('../DevGripAugust/Images/bg1.jpg');
+}
+
+.head, .welcome{
+    padding : 20px;
+    font-weight: 500;
+    text-decoration: solid;
+    border: 2pc black;
+    box-shadow: 2px;
+}
+
+.btn-lgn{
+    text-decoration: none;
+
+}
+
+.carousel-caption{
+    background-color: white;
+    border-radius: 20px;
+    display: inline;
+}
+
+.form-lgn{
+    display: block;
+    padding-left: 400px;
+    padding-right: 400px;
+}
+
+.btn-primary{
+    background-color: aliceblue;
+    color: brown;
+}
+
+.collapse{
+    text-align: left;
+}
+
+.navbar-brand{
+    font-weight: 5000;
+}
